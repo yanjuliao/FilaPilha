@@ -10,7 +10,7 @@ namespace FilaPilha
 
             //Primeiro a entrar é o primeiro a sair
             fila.Add("Yan");
-            fila.Add("Gierot");
+            fila.Add("Unker");
             fila.Add("Joãozin doidão");
             fila.ImprimirFila();
 
@@ -26,7 +26,7 @@ namespace FilaPilha
 
             // Ultimo a entrar é o primeiro a sair
             pilha.Add("Joãozin doidão");
-            pilha.Add("Gierot");
+            pilha.Add("Unker");
             pilha.Add("Yan");
             pilha.Remove();
             pilha.ImprimirPilha();
